@@ -1,3 +1,5 @@
+package com.mert.string;
+
 public class Test {
     /*
     Sonradan oluşturulan class github deneme süreci
